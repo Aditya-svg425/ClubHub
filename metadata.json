@@ -1,0 +1,7 @@
+{
+  "name": "ClubHub",
+  "description": "All-in-one college portal featuring role-based access for Student Council, Newsletter Head, and Club Heads, with Club Hub shortcuts, dynamic notices, campus events calendar, newsletter feed, and college campus map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
